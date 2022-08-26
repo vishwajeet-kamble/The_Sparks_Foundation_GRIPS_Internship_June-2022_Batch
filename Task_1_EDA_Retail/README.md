@@ -1,12 +1,14 @@
 # <b>Exploratory Data Analysis - Retail Superstore </b>
 
+#### Performing EDA for understanding improvement that can be done for Growth of Business. 
+
 ### To Do list:-
 - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 - As a business manager, try to find out the weak areas where you can work to make more profit.
 - Dataset Link: https://bit.ly/3i4rbWl
 - Pre-Processing of Dataset
 - Analyse and create visualization for better understanding of sales according to particular data's present in front of us.
-- Getting Insights by our visuals and comparision
+- Getting Insights by our visuals and comparision.
 
 ### Conclusion:
 - Highest sales seen in
